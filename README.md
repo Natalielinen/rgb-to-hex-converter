@@ -1,12 +1,9 @@
-⚙ rgb-to-hex-converter
+RGB to HEX converter
 
+Простой конвертер цветовых кодов. Сделан в качестве небольшой практики
 
-a simple converter that allows fast convert RGB color code to HEX
+------------------------------------------------------------------------------------------------------------------------
 
-------------------------------------------------------------------------------------
+A simple color code converter. Made as a little practice.
 
-простой конвертер, который позволяет быстро преобразовать цветовой код RGB в HEX
-
-------------------------------------------------------------------------------------
-
-https://natalielinen.github.io/rgb-to-hex-converter/
+[converter](https://natalielinen.github.io/rgb-to-hex-converter/)
